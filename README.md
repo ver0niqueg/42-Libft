@@ -80,7 +80,7 @@ This project is part of the **42 School curriculum** and helps students to learn
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/libft.git
+git clone https://github.com/vgalmich/libft.git
 cd libft
 ```
 
