@@ -79,8 +79,8 @@
 1. Clone the repository:
 
 ```bash
-git@github.com:ver0niqueg/42-Libft.git
-cd libft
+git clone git@github.com:ver0niqueg/42-Libft.git
+cd 42-Libft
 ```
 
 2. Compile the library:
