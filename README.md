@@ -79,7 +79,7 @@
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/vgalmich/libft.git
+git@github.com:ver0niqueg/42-Libft.git
 cd libft
 ```
 
